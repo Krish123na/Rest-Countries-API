@@ -1,6 +1,6 @@
 import { useContext, useState } from "react"
 import SearchBar from "./SearchBar"
-import SelectMenu from "./selectMenu"
+import SelectMenu from "./SelectMenu"
 import CountriesContainer from "./CountriesContainer"
 import { useOutletContext } from "react-router"
 import { ThemeContext } from "../contexts/ThemeContext"
