@@ -11,7 +11,7 @@ A modern, responsive web application built with **React.js** and **Parcel** that
 - 🗂️ Filter by region
 - 🌘 Dark/Light mode toggle with local storage persistence
 - 🧭 Navigate to detailed country info (borders, population, etc.)
-- **Shimmer loading animation (skeleton UI)** while data is loading
+- ⚡ **Shimmer loading animation (skeleton UI)** while data is loading
 - 📱 Fully responsive design (mobile-first)
 
 ---
