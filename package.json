@@ -1,0 +1,21 @@
+{
+  "name": "rest-countries-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "Krishna",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router": "^7.6.2",
+    "react-router-dom": "^7.6.2"
+  }
+}
