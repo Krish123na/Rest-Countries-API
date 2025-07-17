@@ -35,6 +35,6 @@ A modern, responsive web application built with **React.js** and **Parcel** that
 
 ## 📸 Preview
 
-![App Screenshot](./screenshots/Home.png)
+![App Screenshot](./screenshot/Home.png)
 
 
